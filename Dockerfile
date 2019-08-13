@@ -1,1 +1,1 @@
-FROM gcr.io/gmarek-kubernetes/kubemar
+FROM gcr.io/gmarek-kubernetes/kubemark:latest
